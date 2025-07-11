@@ -1,0 +1,3 @@
+ALTER TABLE job_it
+MODIFY job_title VARCHAR(50);
+DESCRIBE job_it;
