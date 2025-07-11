@@ -1,0 +1,2 @@
+ALTER TABLE title
+MODIFY category VARCHAR(25);

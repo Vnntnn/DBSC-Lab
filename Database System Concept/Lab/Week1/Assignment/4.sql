@@ -1,0 +1,1 @@
+RENAME TABLE title TO movie_master
