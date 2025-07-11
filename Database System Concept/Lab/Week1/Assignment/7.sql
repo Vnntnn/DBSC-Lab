@@ -4,4 +4,3 @@ CREATE TABLE STAFF (
     last_name VARCHAR(25),
     address VARCHAR(150)
 );
-DESCRIBE STAFF;
