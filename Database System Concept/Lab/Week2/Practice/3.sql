@@ -1,0 +1,2 @@
+ALTER TABLE lab_emp
+ADD PRIMARY KEY (id);
