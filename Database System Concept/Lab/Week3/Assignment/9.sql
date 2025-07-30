@@ -1,0 +1,1 @@
+delete from lab_emp
