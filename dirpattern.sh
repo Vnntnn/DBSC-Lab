@@ -65,7 +65,6 @@ if [ "$cmd" -eq 2 ]; then
         c=1
         d="./Database System Concept/Lab/Week$w/Practice"
 
-
         while [ $c -le $cnt ]
         do
             touch "$d/$c.sql"
